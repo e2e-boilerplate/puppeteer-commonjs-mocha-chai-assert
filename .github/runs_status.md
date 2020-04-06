@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                               |
+| :-- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 158 | 29/03/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66140747) |
+| 157 | 29/03/20 19:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66081825) |
+| 166 | 02/04/20 23:08 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69551258) |
+| 161 | 30/03/20 21:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66995890) |
+| 164 | 02/04/20 19:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69444220) |
+| 163 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/68743214) |
+| 160 | 30/03/20 20:01 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66943126) |
+| 168 | 02/04/20 23:43 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69561472) |
+| 167 | 02/04/20 23:27 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69556648) |
+| 170 | 03/04/20 00:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69575024) |
+| 174 | 04/04/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/70831103) |
+| 162 | 31/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/67861069) |
+| 171 | 03/04/20 21:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/70302326) |
+| 165 | 02/04/20 21:33 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69506451) |
+| 159 | 29/03/20 22:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66166741) |
+| 172 | 03/04/20 21:30 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/70303908) |
+| 169 | 02/04/20 23:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/69563357) |
+| 173 | 03/04/20 21:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/70310363) |
+| 150 | 29/03/20 00:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65640925) |
+| 152 | 29/03/20 07:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65783397) |
+| 146 | 28/03/20 19:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65521243) |
+| 155 | 29/03/20 16:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66007990) |
+| 149 | 29/03/20 00:33 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65638945) |
+| 156 | 29/03/20 16:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/66020295) |
+| 154 | 29/03/20 07:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65786210) |
+| 147 | 28/03/20 20:06 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65533126) |
+| 153 | 29/03/20 07:19 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65784330) |
+| 148 | 28/03/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65544980) |
+| 151 | 29/03/20 01:50 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65663082) |
+| 145 | 28/03/20 18:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/actions/runs/65506646) |
