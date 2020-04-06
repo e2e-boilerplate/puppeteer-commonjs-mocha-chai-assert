@@ -1,14 +1,14 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/issues"
+    "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-assert/issues"
   },
   "dependencies": {
     "chai": "4.2.0",
     "mocha": "7.1.1",
     "puppeteer": "2.1.1"
   },
-  "description": "Puppeteer end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Expect.",
+  "description": "Puppeteer end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Assert.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
@@ -19,20 +19,20 @@
     "prettier": "2.0.3",
     "pretty-quick": "2.0.1"
   },
-  "homepage": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect#readme",
+  "homepage": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-assert#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
+    "assert",
     "boilerplate",
     "chai",
     "commonjs",
     "e2e",
     "e2e tests",
     "example",
-    "expect",
     "integration test",
     "mocha",
     "puppeteer"
@@ -43,10 +43,10 @@
       "prettier --write"
     ]
   },
-  "name": "puppeteer-commonjs-mocha-chai-expect",
+  "name": "puppeteer-commonjs-mocha-chai-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
