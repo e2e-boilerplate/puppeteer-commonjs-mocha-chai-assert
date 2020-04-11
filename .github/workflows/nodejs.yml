@@ -2,7 +2,7 @@ name: puppeteer-commonjs-mocha-chai-assert
 'on':
   push: null
   schedule:
-    - cron: 50 5 2-31/2 * *
+    - cron: 40 7 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
